@@ -9,3 +9,11 @@ fieldset{
     color: whitesmoke;
     border-color: blueviolet;
 }
+form{
+    border:1px
+
+}
+#thr{
+    border: 2px dashed #475ad4;
+    padding: 10px;
+}
