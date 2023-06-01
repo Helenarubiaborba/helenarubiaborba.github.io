@@ -2,7 +2,7 @@ body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
 }
-p{
+p1{
     color: orange;
 }
 fieldset{
@@ -16,4 +16,12 @@ form{
 #thr{
     border: 2px dashed #475ad4;
     padding: 10px;
+}
+
+.oi{
+    color: orange;
+}
+
+.ei{
+    color:aliceblue
 }
